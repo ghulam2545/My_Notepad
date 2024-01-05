@@ -22,4 +22,4 @@ functionalities similar to the standard Notepad application.
 - Perform text editing using the keyboard shortcuts.
 
 ### Screenshot
-![screenshot.PNG](screenshot.PNG)
+![screenshot.PNG](https://github.com/ghulam2545/notepad/blob/master/screenshot.PNG?raw=true)

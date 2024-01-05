@@ -20,3 +20,6 @@ functionalities similar to the standard Notepad application.
 - Open the application and start typing or open an existing text document.
 - Use the menu options for file operations (File > Open, File > Save, etc.).
 - Perform text editing using the keyboard shortcuts.
+
+### Screenshot
+![screenshot.PNG](screenshot.PNG)
